@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "lambda-test-executor",
+    "name": "lambda-test",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "0qws9v0g5i",
+    "module": "server"
+  }
+}
